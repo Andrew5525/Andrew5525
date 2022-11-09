@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Andrew5525/Andrew5525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hey, I'm Andrés Vanegas 🤙🤙</h1>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480px" align="right">
+<h3 align="left">I am a systems software engineering student</h3>
 
-Here are some ideas to get you started:
+<hr> 
+- 🤔 I’m looking for help or tips with web development and 
+       database management
+- 📫 How to reach me: **avanegas552004@hotmail.com**...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<div align="left">
+<h3>Languages that i´m learning:</h3>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="JAVA SCRIPT" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" tittle="MYSQL" alt="SQL" width="40" height="40"/>&nbsp;
+</div>
+</div>
+
+<hr>
+
+<h2 align="left">MY STATS</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrew5525&theme=github-dark-blue&border_radius=19.6)](https://git.io/streak-stats)
