@@ -1,17 +1,17 @@
 
 <h1 align="left">Hey, I'm Andrés Vanegas 🤙🤙</h1>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480px" align="right">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450px" align="right">
 <h3 align="left">I am a systems software engineering student</h3>
 
-<hr> 
-- 🤔 I’m looking for help or tips with web development and 
+•  🤔 I’m looking for help or tips with web development and 
        database management
-- 📫 How to reach me: **avanegas552004@hotmail.com**...
+       
+• 📫 How to reach me <b>avanegas552004@hotmail.com</b>
 
 <hr>
 
 <div align="left">
-<h3>Languages that i´m learning:</h3>
+<h3>Languages that I´m learning:</h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
