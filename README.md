@@ -1,6 +1,6 @@
 
 <h1 align="left">Hey, I'm Andrés Vanegas 🤙🤙</h1>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="390px" align="right">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360px" align="right">
 <h3 align="left">I am a systems software engineering student</h3>
 
 •  🤔 I’m looking for help or tips with web development and 
