@@ -1,14 +1,12 @@
 
 <h1 align="left">Hey, I'm Andrés Vanegas 🤙🤙</h1>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" align="right">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" align="right">
 <h3 align="left">I am a systems software engineering student</h3>
 
 •  🤔 I’m looking for help or tips with web development and 
        database management
        
 • 📫 How to reach me <b>avanegas552004@hotmail.com</b>
-
-<hr>
 
 <div align="left">
 <h3>Languages that I´m learning:</h3>
